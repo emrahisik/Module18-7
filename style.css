@@ -6,8 +6,8 @@ header h1{
     font-size: 52px;
     color: white;
     text-align: center;
-    margin-top:0;
-    padding-top: 20px;
+    margin:0;
+    padding: 20px 0px;
 }
 
 header nav{
